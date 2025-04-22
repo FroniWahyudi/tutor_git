@@ -2,5 +2,5 @@ tutor #1
 - nyoba buat repository
 - persiapan kolaborasi 
 - buat project kuliah
-- bikin design ui / ux
 - bikin web hrd
+- bikin video tugas
