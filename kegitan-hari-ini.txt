@@ -1,0 +1,4 @@
+Hari selasa
+- ui/ux
+- olahraga
+- belajar git
