@@ -4,3 +4,4 @@ tutor #1
 - buat project kuliah
 - bikin web hrd
 - bikin video tugas
+- jalanin usah davi
