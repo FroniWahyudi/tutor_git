@@ -2,5 +2,7 @@ Hari selasa
 - ui/ux
 - lompat tali
 - belajar design
+
 - velocity
+
 
